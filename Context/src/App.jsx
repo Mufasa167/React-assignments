@@ -1,5 +1,5 @@
 import React from 'react'
-import Grandfather from './components/Grandfather'
+import TodoApp from './TodoApp/TodoApp'
 
 
 
@@ -8,7 +8,7 @@ function App() {
   return (
     
       <div className='App'>
-        <Grandfather />
+        <TodoApp />
       </div>
     
   )
